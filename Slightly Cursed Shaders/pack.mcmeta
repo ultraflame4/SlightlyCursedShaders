@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 13,
+    "description": "A slightly cursed resourcepack with a custom shader for 1.19 vanilla"
+  },
+  "features": {
+    "enabled": []
+  }
+}
